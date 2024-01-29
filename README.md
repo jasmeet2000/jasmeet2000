@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jasmeet2000](https://github.com/jasmeet2000)
 
-- 📝 I regularly write articles on [Data Science]([Data Science](https://www.linkedin.com/in/jas-meet/))
+- 📝 I regularly write articles on [Data Science](https://www.linkedin.com/in/jas-meet/)
 
 - 💬 Ask me about **PHP-Laravel, R, Python, Tableau, Power BI, Looker, SPSS, Statistics, Data Science**
 

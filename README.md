@@ -13,7 +13,7 @@
 
 <!--     - 🤝 I’m looking for help with [jas](https://github.com/jasmeet2000/cluster_analysis_on_wholesale_customers_data)    -->
 
-- 👨‍💻 All of my projects are available at [https://github.com/jasmeet2000](https://github.com/jasmeet2000)
+- 👨‍💻 All of my projects are available at [https://github.com/jasmeet2000?tab=repositories](https://github.com/jasmeet2000?tab=repositories)
 
 - 📝 I regularly write articles on [Data Science](https://www.linkedin.com/in/jas-meet/)
 

@@ -7,7 +7,7 @@
 
 <!--     - 🔭 I’m currently working on [abc](https://github.com/jasmeet2000/cluster_analysis_on_wholesale_customers_data)    -->
 
-- 🌱 I’m currently learning **Big Data analytics**
+- 🌱 I’m currently learning and working on **Big Data analytics** as well as **Software Development**
 
 - 👯 I’m looking to collaborate on [Cluster Analysis](https://github.com/jasmeet2000/cluster_analysis_on_wholesale_customers_data)
 

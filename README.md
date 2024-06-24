@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning and working on **Big Data analytics** as well as **Software Development**
 
+- 🤝 If you want to know more about me, visit my [portfolio website](https://jasmeet2000.github.io/Jasmeet-Singh-Saini)  
+
 - 👯 I’m looking to collaborate on [Cluster Analysis](https://github.com/jasmeet2000/cluster_analysis_on_wholesale_customers_data)
 
 <!--     - 🤝 I’m looking for help with [jas](https://github.com/jasmeet2000/cluster_analysis_on_wholesale_customers_data)    -->

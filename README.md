@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jasmeet Singh Saini</h1>
-<h3 align="center">2+ Experienced Backend Developer with an M.Sc. in Big Data Analytics at Trent University</h3>
+<h3 align="center">4+ Experienced with an M.Sc. in Big Data Analytics at Trent University</h3>
 
 <img align="right" alt="Data Science" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -7,9 +7,9 @@
 
 <!--     - 🔭 I’m currently working on [abc](https://github.com/jasmeet2000/cluster_analysis_on_wholesale_customers_data)    -->
 
-- 🌱 I’m currently learning and working on **Big Data analytics** as well as **Software Development**
+- 🌱 I’m currently learning and working on **AI & ML Engineering** as well as **Big Data**
 
-- 🤝 If you want to know more about me, visit my [portfolio website](https://jasmeet2000.github.io/Jasmeet-Singh-Saini)  
+- 🤝 If you want to know more about me, visit my [portfolio website](https://jasmeet2000.github.io/Jasmeet-Singh-Saini/about.html)  
 
 - 👯 I’m looking to collaborate on [Cluster Analysis](https://github.com/jasmeet2000/cluster_analysis_on_wholesale_customers_data)
 
@@ -19,9 +19,9 @@
 
 - 📝 I regularly write articles on [Data Science](https://www.linkedin.com/in/jas-meet/)
 
-- 💬 Ask me about **PHP-Laravel, R, Python, Tableau, Power BI, Looker, SPSS, Statistics, Data Science**
+- 💬 Ask me about **Machine Learning Engineering, Fraud & Risk Modeling, Deep Learning (PyTorch/TensorFlow), MLOps, AWS (SageMaker, EC2, S3), Model Monitoring & Explainability (SHAP), End-to-End ML Pipelines**
 
-- 📫 How to reach me **jasmeetsn@yahoo.com**
+- 📫 How to reach me **jasmeetsinghsai@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1S07AZke_8Jx1RdOAuvBLDPDiUtYEMtDessAucJPyhqc/edit?usp=sharing](https://docs.google.com/document/d/1S07AZke_8Jx1RdOAuvBLDPDiUtYEMtDessAucJPyhqc/edit?usp=sharing)
 

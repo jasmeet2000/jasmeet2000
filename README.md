@@ -23,9 +23,9 @@
 
 - 📫 How to reach me **jasmeetsinghsai@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1S07AZke_8Jx1RdOAuvBLDPDiUtYEMtDessAucJPyhqc/edit?usp=sharing](https://docs.google.com/document/d/1S07AZke_8Jx1RdOAuvBLDPDiUtYEMtDessAucJPyhqc/edit?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/15kIMeF5ouTlnf5Z5pTbS5SNmlkdahfMZ/view?usp=sharing](https://drive.google.com/file/d/15kIMeF5ouTlnf5Z5pTbS5SNmlkdahfMZ/view?usp=sharing)
 
-- ⚡ Fun fact **"Data Science" is easier than "Data Analysis"**
+- ⚡ Fun fact: **Training a model** is _easy_ — _understanding_ the **problem is the real challenge**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

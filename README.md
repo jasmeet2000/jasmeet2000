@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **jasmeetsinghsai@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15kIMeF5ouTlnf5Z5pTbS5SNmlkdahfMZ/view?usp=sharing](https://drive.google.com/file/d/15kIMeF5ouTlnf5Z5pTbS5SNmlkdahfMZ/view?usp=sharing)
+- 📄 Know about my experiences -> Click on the link to view Resume [https://drive.google.com/file/d/15kIMeF5ouTlnf5Z5pTbS5SNmlkdahfMZ/view?usp=sharing](https://drive.google.com/file/d/15kIMeF5ouTlnf5Z5pTbS5SNmlkdahfMZ/view?usp=sharing)
 
 - ⚡ Fun fact: **Training a model** is _easy_ — _understanding_ the **problem is the real challenge**.
 

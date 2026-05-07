@@ -28,11 +28,11 @@
 - ⚡ Fun fact: **Training a model** is _easy_ — _understanding_ the **problem is the real challenge**.
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jas-meet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jas-meet" height="30" width="40" /></a>
-<a href="https://kaggle.com/jasmeet07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jasmeet07" height="30" width="40" /></a>
-<a href="https://instagram.com/jas__meet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jas__meet" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/jasmeet07singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jasmeet07singh" height="30" width="40" /></a>
+<p align="left" style="display: flex; gap: 10px; align-items: center;">
+  <a href="https://linkedin.com/in/jas-meet" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jas-meet" height="30" width="40" /></a>
+  <a href="https://kaggle.com/jasmeet07" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jasmeet07" height="30" width="40" /></a>
+  <a href="https://instagram.com/jas__meet" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jas__meet" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/jasmeet07singh" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jasmeet07singh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
